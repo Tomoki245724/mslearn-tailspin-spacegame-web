@@ -1,3 +1,3 @@
-pool: MyAgentPool
+pool: MyPool
 steps:
 - bash: echo hello world
